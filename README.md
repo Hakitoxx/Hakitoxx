@@ -2,8 +2,7 @@
 
 ### Full-Stack Web Developer & IoT Enthusiast 🌐🔌
 
-> "I build solutions that bridge the gap between complex problems and user-friendly experiences." 
-*(Kendini tanıtan o özel cümle)*
+> "I build solutions that bridge the gap between complex problems and user-friendly experiences."
 
 ---
 
