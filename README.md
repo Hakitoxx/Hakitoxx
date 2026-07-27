@@ -14,8 +14,7 @@
     &lt;meta charset="UTF-8"&gt;
     &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
     &lt;title&gt;Hakitoxx&lt;/title&gt;
-
-    &lt;link rel="stylesheet" href="style.css"&gt;
+      
 &lt;/head&gt;
 &lt;body&gt;
     &lt;main&gt;
