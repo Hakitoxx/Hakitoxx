@@ -20,18 +20,6 @@
         &lt;h3 class="name"&gt;Hakitoxx :)&lt;/h3&gt;
         &lt;h3 class="discord"&gt;itz_hakitoxx&lt;/h3&gt;
         &lt;h3 class="job"&gt;fullstack dev&lt;/h3&gt;
-
-        &lt;skills&gt;
-            &lt;lang name="Python" level="advanced"&gt;
-                &lt;lang name="JavaScript" level="advanced"&gt;
-                    &lt;lang name="HTML/CSS" level="intermediate"&gt;
-                        &lt;lang name="C++" level="intermediate"&gt;
-                            &lt;lang name="Luau" level="learning" /&gt;
-                        &lt;/lang&gt;
-                    &lt;/lang&gt;
-                &lt;/lang&gt;
-            &lt;/lang&gt;
-        &lt;/skills&gt;
     &lt;/main&gt;
 &lt;/body&gt;
 &lt;/html&gt;</code></pre>
@@ -61,7 +49,6 @@
   <h3>👨‍💻 I'm currently using</h3>
   <br />
   <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
