@@ -19,7 +19,7 @@
     &lt;main&gt;
         &lt;h3 class="name"&gt;Hakitoxx :)&lt;/h3&gt;
         &lt;h3 class="discord"&gt;itz_hakitoxx&lt;/h3&gt;
-        &lt;h3 class="job"&gt;fullstack dev&lt;/h3&gt;
+        &lt;h3 class="job"&gt;frontend dev&lt;/h3&gt;
     &lt;/main&gt;
 &lt;/body&gt;
 &lt;/html&gt;</code></pre>
