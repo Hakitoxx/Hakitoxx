@@ -1,58 +1,54 @@
 <div align="center">
 
-  <!-- Başlık -->
-  <h1>Hey, I'm Toprak 👋</h1>
-  <p><i>Tech Enthusiast | Hobbyist Developer | Maker</i></p>
+# Hakitoxx
 
-  <br />
+### Toprak — Developer & Tech Enthusiast
 
-  <!-- HTML Kod Kutusu (VS Code İndent / Hiyerarşi Düzeni) -->
-  <div align="left" style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-    <pre style="margin: 0; font-family: monospace; color: #e6edf3;"><code>&lt;!DOCTYPE html&gt;
-&lt;html lang="tr"&gt;
-&lt;head&gt;
-    &lt;meta charset="UTF-8"&gt;
-    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
-    &lt;title&gt;Hakitoxx&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;main&gt;
-        &lt;h3 class="name"&gt;Hakitoxx :)&lt;/h3&gt;
-        &lt;h3 class="discord"&gt;itz_hakitoxx&lt;/h3&gt;
-        &lt;h3 class="job"&gt;frontend dev&lt;/h3&gt;
-    &lt;/main&gt;
-&lt;/body&gt;
-&lt;/html&gt;</code></pre>
-  </div>
+Building small tools, experiments, and desktop projects while learning software development.
 
-  <br />
-  <hr style="border: 0.5px solid #30363d; width: 80%; margin: 20px auto;" />
-  <br />
+[![GitHub](https://img.shields.io/badge/GitHub-Hakitoxx-181717?style=for-the-badge&logo=github)](https://github.com/Hakitoxx)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
-  <!-- Kullanılan Diller (I'm currently working with) -->
-  <h3>🔭 I'm currently working with</h3>
-  <br />
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
-  </p>
+</div>
 
-  <br />
-  <hr style="border: 0.5px solid #30363d; width: 80%; margin: 20px auto;" />
-  <br />
+---
 
-  <!-- Kullanılan Araçlar & Sistemler (I'm currently using) -->
-  <h3>👨‍💻 I'm currently using</h3>
-  <br />
-  <p>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
+## About
+
+I'm a developer in progress who enjoys learning by building real projects.
+
+My current focus is **Python, HTML, CSS, JavaScript, Git/GitHub, and hardware projects**. I prefer practical projects over only following tutorials, so many of the repositories here are experiments, tools, or work-in-progress ideas.
+
+## What I'm Working With
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, C++, JavaScript, Luau |
+| Web | HTML5, CSS3 |
+| Hardware | Arduino |
+| Tools | VS Code, Git, GitHub |
+| Systems | Windows, Linux |
+
+## Selected Projects
+
+- **[Project Wynes](https://github.com/Hakitoxx/ProjectWynes)** — Windows desktop toolkit for network and system diagnostics.
+- **[SmartTV-StreamController](https://github.com/Hakitoxx/SmartTV-StreamController)** — Python controller for compatible TV and Chromecast devices.
+- **[InternetAnalyzer](https://github.com/Hakitoxx/InternetAnalyzer)** — Real-time internet connection monitoring and outage analysis.
+- **[Html-Css-Test](https://github.com/Hakitoxx/Html-Css-Test)** — Personal HTML/CSS frontend practice project.
+- **[Ardunio-Repo](https://github.com/Hakitoxx/Ardunio-Repo)** — Arduino experiments with sensors, LEDs, and displays.
+
+## Learning Philosophy
+
+> Build it. Break it. Understand why. Build it better.
+
+Most repositories here are part of my learning process, so some projects may be experimental or unfinished. The goal is to keep improving both the code and the way I document it.
+
+---
+
+<div align="center">
+
+**More projects and experiments are available on my repositories.**
 
 </div>
